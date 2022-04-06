@@ -1,4 +1,4 @@
-### Hi there 👋 New
+### Hi there 👋 
 
 <!--
 **nossienl/nossienl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
